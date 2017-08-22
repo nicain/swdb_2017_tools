@@ -1,27 +1,11 @@
-[![CircleCI](https://circleci.com/gh/AllenInstitute/swdb_2017_tools.svg?style=svg&circle-token=ff275adf3693e339677fc1a9c6469a64e019ec7e)](https://circleci.com/gh/AllenInstitute/swdb_2017_tools)
-# swdb_2017_tools
+SWDB Tools
+----------
 
-A collaborative Python package built by participants of the Summer Workshop on the Dynamic Brain
 
-## Usage
+A collection of shared SWDB tools. AND SUCH.
 
-```Python
-import swdb17
-```
+## Support
 
-## Installation
+This code is being developed collaboratively as part of the 2017 Summer Workshop on the Dynamic Brain and will only be supported and developed officially during this workshop. The community is welcome to submit issues, but you should not expect an active response outside of the context of the course.
 
-```
-git clone https://github.com/AllenInstitute/swdb_2017_tools.git
-cd swdb_2017_tools
-pip install -e ./
-```
-
-### Requirements
-
-- allensdk
-- numpy
-- matplotlib
-- pandas
-
-## License
+Copyright 2017 Allen Institute
